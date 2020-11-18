@@ -1,0 +1,30 @@
+.mb-auto{
+    margin-bottom: 5%!important;
+}
+
+.formInput{
+    padding-top: calc(.375rem + 1px);
+    padding-bottom: calc(.375rem + 1px);
+    margin-bottom: 0;
+    font-size: inherit;
+    line-height: 1.5;
+  }
+
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    text-align:left;
+    color:black;
+    padding: 5px;
+  }
+
+.btn-primary{
+    background-color: #007bff;
+    color:#fff;
+    margin-bottom:0;
+  }
+ 
